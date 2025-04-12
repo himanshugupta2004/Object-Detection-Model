@@ -36,8 +36,7 @@ An AI-powered, glasses-based navigation system designed for the visually impaire
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/yourusername/blind-assistance-system.git
-   cd blind-assistance-system
+   git clone https://github.com/himanshugupta2004/Object-Detection-Model/tree/main
    ```
 
 2. Install dependencies  
